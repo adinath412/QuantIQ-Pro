@@ -245,7 +245,7 @@ streamlit run main.py --server.port 8501
 Quantitative Researcher · QFI Capital
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/adi-more-1a5b34210)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)]([https://github.com/YOUR_USERNAME](https://github.com/adinath412))
 
 ---
 
